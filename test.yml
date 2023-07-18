@@ -14,4 +14,3 @@ Resources:
       SecurityGroups:
         - !Ref SSHSecurityGroup
         - !Ref ServerSecurityGroup
-end
